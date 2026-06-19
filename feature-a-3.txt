@@ -1,1 +1,1 @@
-file3 và file1
+file1 + file2 + file3
